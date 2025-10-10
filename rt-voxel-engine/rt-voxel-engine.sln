@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rt-voxel-engine", "rt-voxel-engine.vcxproj", "{6DED269D-FF83-4425-94FF-43F4449BF5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Deb-Vul|x64 = Deb-Vul|x64
+		Deb-Vul|x86 = Deb-Vul|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Rel-Vulkan|x64 = Rel-Vulkan|x64
+		Rel-Vulkan|x86 = Rel-Vulkan|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Debug|x64.ActiveCfg = Debug|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Debug|x64.Build.0 = Debug|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Debug|x86.Build.0 = Debug|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Deb-Vul|x64.ActiveCfg = Deb-Vulkan|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Deb-Vul|x64.Build.0 = Deb-Vulkan|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Deb-Vul|x86.ActiveCfg = Deb-Vulkan|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Deb-Vul|x86.Build.0 = Deb-Vulkan|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Release|x64.ActiveCfg = Release|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Release|x64.Build.0 = Release|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Release|x86.ActiveCfg = Release|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Release|x86.Build.0 = Release|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Rel-Vulkan|x64.ActiveCfg = Rel-Vulkan|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Rel-Vulkan|x64.Build.0 = Rel-Vulkan|x64
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Rel-Vulkan|x86.ActiveCfg = Rel-Vulkan|Win32
+		{6DED269D-FF83-4425-94FF-43F4449BF5A1}.Rel-Vulkan|x86.Build.0 = Rel-Vulkan|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674EF072-FEC4-40F9-9A60-684FD49E8460}
+	EndGlobalSection
+EndGlobal

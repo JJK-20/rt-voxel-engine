@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Some VS and proj specif stuff
+.vs/
+x64/
+Deb-Vulkan/
+Debug/
+Rel-Vulkan/
+Release/
+*.spv
+!glfw3.lib
